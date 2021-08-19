@@ -15,8 +15,10 @@ https://hub.docker.com/r/paulbouwer/hello-kubernetes
 
 
 To execute
+
 $ kubectl apply -f hellokube.yaml
 
 To see all the resouces 
+
 $kubectl get all -n dev-app-ns
 
