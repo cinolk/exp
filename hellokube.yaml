@@ -98,3 +98,4 @@ spec:
             serviceName: hellokube
             servicePort: 8080
           path: /
+
