@@ -22,3 +22,11 @@ To see all the resouces
 
 $kubectl get all -n dev-app-ns
 
+
+
+-- --- -- --- 
+latest version of the application was showing some error.
+paulbouwer/hello-kubernetes 
+
+below command with version is working 
+paulbouwer/hello-kubernetes:1.10
