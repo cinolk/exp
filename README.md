@@ -2,6 +2,8 @@ How to deploy the below docker image using kubernets
 
 https://hub.docker.com/r/paulbouwer/hello-kubernetes
 
+hellokube.yaml
+
 > Use a new seperate/newspace to isolate  projects and microservices from others.
 
 > Deployment section to create a pod using the hello-kuberetes image. 
