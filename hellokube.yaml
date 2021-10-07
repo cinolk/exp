@@ -8,6 +8,8 @@ metadata:
   labels:
     micro-service: hellokube 
 spec:
+  selector:
+    micro-service: hellokube
   type: ClusterIP
   ports:
     - port: 8080
